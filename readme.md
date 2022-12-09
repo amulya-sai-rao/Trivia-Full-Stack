@@ -1,5 +1,5 @@
-###Trivia###
+# TRIVIA-capstone-project
 
-###Full Stack Project###
+# Full Stack Project
 
-##Demo Video : ##https://forms.gle/EhiLvcUcCGbQTFAd9
+Demo Video : https://forms.gle/EhiLvcUcCGbQTFAd9
